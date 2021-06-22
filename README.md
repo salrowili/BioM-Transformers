@@ -1,4 +1,4 @@
-# BioM-Transformers: Building Large Biomedical Language Models withBERT, ALBERT and ELECTRA. 
+# BioM-Transformers: Building Large Biomedical Language Models with BERT, ALBERT and ELECTRA. 
 
 # Abstract
 
@@ -71,9 +71,13 @@ More information about GlounNLP https://github.com/dmlc/gluon-nlp
 
 
 
-# Fine-Tuning Codes and Colab Notebook Examples
+# Colab Notebook Examples
+- Fine-Tuning BioM-ELECTRA-LARGE on NER and ChemProt Task
 
-We are working to organize our code and examples with TPU and GPU units. In the meantime, you can use the original implementation of ELECTRA https://github.com/google-research/electra for both BioM-ELECTRA and BioM-BERT and for BioM-ALBERT use ALBERT https://github.com/google-research/albert . Adding tasks for both libraries is pretty straightforward. For SQuAD, It's advisable to use TensorFlow code and checkpoints since it implements Layer-Wise decay. Huggingface library doesn't implement this feature.
+  https://github.com/salrowili/BioM-Transformers/blob/main/examples/Example_of_NER_and_ChemProt_Task_on_TPU.ipynb
+- Fine-Tuning BioM-ELECTRA-Large on SQuAD2.0 and BioASQ7B Factoid tasks
+
+  https://github.com/salrowili/BioM-Transformers/blob/main/examples/Example_of_SQuAD2_0_and_BioASQ7B_tasks_with_BioM_ELECTRA_Large_on_TPU.ipynb
 
 
 # Acknowledgment
