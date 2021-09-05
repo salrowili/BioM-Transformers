@@ -79,6 +79,7 @@ Fine-Tuning BioM-ELECTRA-Large on SQuAD2.0 and BioASQ7B Factoid tasks [Example L
 
 Fine-Tuning BioM-ALBERT-xxlarge on SQuAD2.0 and BioASQ7B Factoid tasks [Example Link](https://github.com/salrowili/BioM-Transformers/blob/main/examples/Example_of_SQuAD2_0_and_BioASQ7B_tasks_with_BioM_ALBERT_xxlarge_on_TPU.ipynb)
 
+Fine-tuning Biomedical Models on Text_Classification Task With HuggingFace Transformers and PyTorchXLA [Example Link](https://github.com/salrowili/BioM-Transformers/blob/main/examples/Fine_Tuning_Biomedical_Models_on_Text_Classification_Task_With_HuggingFace_Transformers_and_PyTorch_XLA.ipynb)
 
 
 # Acknowledgment
