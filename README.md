@@ -73,13 +73,13 @@ More information about GlounNLP https://github.com/dmlc/gluon-nlp
 
 # Colab Notebook Examples
 
-Fine-Tuning BioM-ELECTRA-LARGE on NER and ChemProt Task [Example Link](https://github.com/salrowili/BioM-Transformers/blob/main/examples/Example_of_NER_and_ChemProt_Task_on_TPU.ipynb)
+BioM-ELECTRA-LARGE on NER and ChemProt Task [Link](https://github.com/salrowili/BioM-Transformers/blob/main/examples/Example_of_NER_and_ChemProt_Task_on_TPU.ipynb)
 
-Fine-Tuning BioM-ELECTRA-Large on SQuAD2.0 and BioASQ7B Factoid tasks [Example Link](https://github.com/salrowili/BioM-Transformers/blob/main/examples/Example_of_SQuAD2_0_and_BioASQ7B_tasks_with_BioM_ELECTRA_Large_on_TPU.ipynb)
+BioM-ELECTRA-Large on SQuAD2.0 and BioASQ7B Factoid tasks [Link](https://github.com/salrowili/BioM-Transformers/blob/main/examples/Example_of_SQuAD2_0_and_BioASQ7B_tasks_with_BioM_ELECTRA_Large_on_TPU.ipynb)
 
-Fine-Tuning BioM-ALBERT-xxlarge on SQuAD2.0 and BioASQ7B Factoid tasks [Example Link](https://github.com/salrowili/BioM-Transformers/blob/main/examples/Example_of_SQuAD2_0_and_BioASQ7B_tasks_with_BioM_ALBERT_xxlarge_on_TPU.ipynb)
+BioM-ALBERT-xxlarge on SQuAD2.0 and BioASQ7B Factoid tasks [Link](https://github.com/salrowili/BioM-Transformers/blob/main/examples/Example_of_SQuAD2_0_and_BioASQ7B_tasks_with_BioM_ALBERT_xxlarge_on_TPU.ipynb)
 
-Fine-tuning Biomedical Models on Text_Classification Task With HuggingFace Transformers and PyTorchXLA [Example Link](https://github.com/salrowili/BioM-Transformers/blob/main/examples/Fine_Tuning_Biomedical_Models_on_Text_Classification_Task_With_HuggingFace_Transformers_and_PyTorch_XLA.ipynb)
+Text_Classification Task With HuggingFace Transformers and PyTorchXLA (We achieve 80.74 micro F1 score on ChemProt with BioM-ALBERTxxlarge) [Link](https://github.com/salrowili/BioM-Transformers/blob/main/examples/Fine_Tuning_Biomedical_Models_on_Text_Classification_Task_With_HuggingFace_Transformers_and_PyTorch_XLA.ipynb)
 
 
 # Acknowledgment
