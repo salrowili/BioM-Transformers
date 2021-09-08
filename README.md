@@ -79,7 +79,7 @@ BioM-ELECTRA-Large on SQuAD2.0 and BioASQ7B Factoid tasks [Link](https://github.
 
 BioM-ALBERT-xxlarge on SQuAD2.0 and BioASQ7B Factoid tasks [Link](https://github.com/salrowili/BioM-Transformers/blob/main/examples/Example_of_SQuAD2_0_and_BioASQ7B_tasks_with_BioM_ALBERT_xxlarge_on_TPU.ipynb)
 
-Text_Classification Task With HuggingFace Transformers and PyTorchXLA (We achieve 80.74 micro F1 score on ChemProt with BioM-ALBERTxxlarge) [Link](https://github.com/salrowili/BioM-Transformers/blob/main/examples/Fine_Tuning_Biomedical_Models_on_Text_Classification_Task_With_HuggingFace_Transformers_and_PyTorch_XLA.ipynb)
+Text_Classification Task With HuggingFace Transformers and PyTorchXLA [Link](https://github.com/salrowili/BioM-Transformers/blob/main/examples/Fine_Tuning_Biomedical_Models_on_Text_Classification_Task_With_HuggingFace_Transformers_and_PyTorch_XLA.ipynb) (80.74 micro F1 score on ChemProt task)
 
 
 # Acknowledgment
