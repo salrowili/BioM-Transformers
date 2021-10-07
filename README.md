@@ -1,5 +1,7 @@
 # BioM-Transformers: Building Large Biomedical Language Models with BERT, ALBERT and ELECTRA. 
 
+[Paper link](https://www.aclweb.org/anthology/2021.bionlp-1.24)
+
 # Abstract
 
 The impact of design choices on the performance
@@ -52,7 +54,7 @@ models.
 | BioM-ALBERT-xxlarge-SQuAD2 |  83.86 | 86.99 |[Link](https://drive.google.com/file/d/1-HHLPXIyPm_fXTNQ-CxnoSiDUx8KwkgP/view?usp=sharing/)
 | BioM-ALBERT-xxlarge-MNLI-SQuAD2 |  84.35 | 87.31 | [Link](https://drive.google.com/file/d/1-G793O1JtFPAgQTJIg_nUG4Z_Q8Zt4Gw/view?usp=sharing)
 
-We implement transferability between MNLI and SQuAD, which was explained in details by [(Jeong, et al., 2020)](https://arxiv.org/abs/2007.00217)
+We implement transferability between MNLI and SQuAD, which was explained in details by [(Jeong, et al., 2020)](https://arxiv.org/abs/2007.00217). We detailed our particpiation in BioASQ9B in this [Paper](http://ceur-ws.org/Vol-2936/paper-14.pdf). To check the performance of our systems (UDEL-LAB) from the official BioASQ leaderboard visit http://participants-area.bioasq.org/results/9b/phaseB/ .
 
 # GluonNLP (MXNet) Checkpoints
 
@@ -89,6 +91,8 @@ We would like to acknowledge the support we have from Tensorflow Research Cloud 
 
 # Citation
 
+BioM-Transfomers Model
+
 ```bibtex
 @inproceedings{alrowili-shanker-2021-biom,
 title = "{B}io{M}-Transformers: Building Large Biomedical Language Models with {BERT}, {ALBERT} and {ELECTRA}",
@@ -102,5 +106,15 @@ publisher = "Association for Computational Linguistics",
 url = "https://www.aclweb.org/anthology/2021.bionlp-1.24",
 pages = "221--227",
 abstract = "The impact of design choices on the performance of biomedical language models recently has been a subject for investigation. In this paper, we empirically study biomedical domain adaptation with large transformer models using different design choices. We evaluate the performance of our pretrained models against other existing biomedical language models in the literature. Our results show that we achieve state-of-the-art results on several biomedical domain tasks despite using similar or less computational cost compared to other models in the literature. Our findings highlight the significant effect of design choices on improving the performance of biomedical language models.",
+}
+```
+
+```bibtex
+@article{alrowili2021large,
+  title={Large biomedical question answering models with ALBERT and ELECTRA},
+  author={Alrowili, Sultan and Shanker, K},
+  url = "http://ceur-ws.org/Vol-2936/paper-14.pdf",
+  journal={CLEF (Working Notes)},
+  year={2021}
 }
 ```
