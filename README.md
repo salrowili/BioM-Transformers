@@ -84,6 +84,7 @@ BioM-ALBERT-xxlarge on SQuAD2.0 and BioASQ7B Factoid tasks [![Open In Colab][COL
 
 Text Classification Task With HuggingFace Transformers and PyTorchXLA on Free TPU [![Open In Colab][COLAB]](https://colab.research.google.com/github/salrowili/BioM-Transformers/blob/main/examples/Fine_Tuning_Biomedical_Models_on_Text_Classification_Task_With_HuggingFace_Transformers_and_PyTorch_XLA.ipynb)
 
+Fine-Tunning BioM-Transformers on Question Answering dataset with TPU and Torch XLA [![Open In Colab][COLAB]](https://github.com/salrowili/BioM-Transformers/blob/main/examples/Fine_Tuning_BioM_Transformers_on_SQuAD_on_TPU_with_PyTorch_XLA.ipynb)
 
 # Acknowledgment
 
