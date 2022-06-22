@@ -27,6 +27,7 @@ models.
 - BioM-ELECTRA-Base-Generator [Link](https://huggingface.co/sultan/BioM-ELECTRA-Base-Generator)
 - BioM-ELECTRA-Large-Discriminator [Link](https://huggingface.co/sultan/BioM-ELECTRA-Large-Discriminator)
 - BioM-ELECTRA-Large-Generator [Link](https://huggingface.co/sultan/BioM-ELECTRA-Large-Generator)
+- BioM-BERT-PubMed-PMC-Large [Link](sultan/BioM-BERT-PubMed-PMC-Large)
 - BioM-ALBERT-xxlarge [Link](https://huggingface.co/sultan/BioM-ALBERT-xxlarge)
 - BioM-ALBERT-xxlarge-PMC [Link](https://huggingface.co/sultan/BioM-ALBERT-xxlarge-PMC) ( +PMC for 64k steps)
 - BioM-ELECTRA-Large-SQuAD2 [Link](https://huggingface.co/sultan/BioM-ELECTRA-Large-SQuAD2)
