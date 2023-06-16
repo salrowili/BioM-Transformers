@@ -87,7 +87,8 @@ Text Classification Task With HuggingFace Transformers and PyTorchXLA on Free TP
 
 Fine-Tunning BioM-Transformers on Question Answering dataset with TPU and Torch XLA [![Open In Colab][COLAB]](https://github.com/salrowili/BioM-Transformers/blob/main/examples/Fine_Tuning_BioM_Transformers_on_SQuAD_on_TPU_with_PyTorch_XLA.ipynb)
 
-Reproducing our BLURB results with JAX [![Open In Colab][COLAB]](https://github.com/salrowili/BioM-Transformers/blob/main/examples/BLURB_LeaderBoard_with_TPU_VM.ipynb)
+Reproducing our BLURB results with JAX [![Open In Colab][COLAB]](https://colab.research.google.com/github/salrowili/BioM-Transformers/blob/main/examples/BLURB_LeaderBoard_with_TPU_VM.ipynb)
+
 
 # Acknowledgment
 
