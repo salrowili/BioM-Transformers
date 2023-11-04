@@ -90,6 +90,8 @@ Fine-Tunning BioM-Transformers on Question Answering dataset with TPU and Torch 
 Reproducing our BLURB results with JAX [![Open In Colab][COLAB]](https://colab.research.google.com/github/salrowili/BioM-Transformers/blob/main/examples/BLURB_LeaderBoard_with_TPU_VM.ipynb)
 
 
+Finetunning BioM-Transformers with Jax/Flax on TPUv3-8 with Kaggle [![Open In Colab][COLAB]](https://www.kaggle.com/code/sultanalrowili/biom-transoformers-with-flax-on-tpu-with-kaggle)
+
 # Acknowledgment
 
 We would like to acknowledge the support we have from Tensorflow Research Cloud (TFRC) team to grant us access to TPUv3 units.
@@ -125,3 +127,4 @@ abstract = "The impact of design choices on the performance of biomedical langua
 }
 ```
 [COLAB]: https://colab.research.google.com/assets/colab-badge.svg
+[Kaggle]: https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/189_Kaggle-512.png
