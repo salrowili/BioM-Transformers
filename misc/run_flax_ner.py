@@ -833,7 +833,7 @@ def main():
         else:
                    model_name_hf=model_args.model_name_or_path
         final_entry={"dataset_name": data_args.blurb_task, "model_name":model_name_hf, "predictions":preds_dict}
-        with open(mmodel_name_hf+"_"+str(data_args.blurb_task)+".json", "w") as f:
+        with open(model_name_hf+"_"+str(data_args.blurb_task)+".json", "w") as f:
           json.dump(final_entry, f, indent=4, sort_keys=True)
         eval_metrics = compute_metrics()
         logger.info(f"Evaluation Results on Test Set : {eval_metrics}")
