@@ -90,7 +90,7 @@ Fine-Tunning BioM-Transformers on Question Answering dataset with TPU and Torch 
 Reproducing our BLURB results with JAX [![Open In Colab][COLAB]](https://colab.research.google.com/github/salrowili/BioM-Transformers/blob/main/examples/BLURB_LeaderBoard_with_TPU_VM.ipynb)
 
 
-Finetunning BioM-Transformers with Jax/Flax on TPUv3-8 with Kaggle [![Open In Colab][COLAB]](https://www.kaggle.com/code/sultanalrowili/biom-transoformers-with-flax-on-tpu-with-kaggle)
+Finetunning BioM-Transformers with Jax/Flax on TPUv3-8 with free Kaggle resource [![Open In Colab][COLAB]](https://www.kaggle.com/code/sultanalrowili/biom-transoformers-with-flax-on-tpu-with-kaggle)
 
 # Acknowledgment
 
