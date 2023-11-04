@@ -783,9 +783,7 @@ def main():
                 if has_tensorboard and jax.process_index() == 0:
                     write_eval_metric(summary_writer, eval_metrics, cur_step)
 
-            #if (cur_step % training_args.save_steps == 0 and cur_step > 0) or (cur_step == total_steps):
-            if 10==11:
-                # save checkpoint after each epoch and push checkpoint to the hub
+            if (cur_step % training_args.save_steps == 0 and cur_step > 0) or (cur_step == total_steps):
                 if jax.process_index() == 0:
                     params = jax.device_get(unreplicate(state.params))
                     model.save_pretrained(training_args.output_dir, params=params)
