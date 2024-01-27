@@ -126,5 +126,13 @@ abstract = "The impact of design choices on the performance of biomedical langua
   year={2021}
 }
 ```
+```bibtex
+@inproceedings{alrowili2022exploring,
+  title={Exploring Biomedical Question Answering with BioM-Transformers At BioASQ10B challenge: Findings and Techniques},
+  author={Alrowili, Sultan and Vijay-Shanker, K},
+  year={2022},
+  organization={CEUR Workshop Bologna, Italy}
+}
+```
 [COLAB]: https://colab.research.google.com/assets/colab-badge.svg
 [Kaggle]: https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/189_Kaggle-512.png
